@@ -11,7 +11,7 @@
 📫 How to reach me: LinkedIn, Email.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kalpaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalpaj-pise/)](https://www.linkedin.com/in/kalpaj-pise/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kalpaj-Pise-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalpaj-pise/)](https://www.linkedin.com/in/kalpaj-pise/)
 [![Gmail Badge](https://img.shields.io/badge/kalpaj12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalpaj12@gmail.com)](mailto:kalpaj12@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=kalpajpise" alt="darecoder"/>
 
