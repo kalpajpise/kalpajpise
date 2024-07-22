@@ -11,10 +11,8 @@
 📫 How to reach me: LinkedIn, Email.
 
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[![Linkedin Badge](https://img.shields.io/badge/-DharanidharReddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalpaj-pise/)](https://www.linkedin.com/in/kalpaj-pise/)
+[![Gmail Badge](https://img.shields.io/badge/yerram@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalpaj12@gmail.com)](mailto:kalpaj12@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=kalpajpise" alt="darecoder"/>
 
 [![Kalpaj’s github stats](https://github-readme-stats.vercel.app/api?username=kalpajpise)](https://github.com/kalpajpise)
