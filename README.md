@@ -10,4 +10,6 @@
 
 📫 How to reach me: LinkedIn, Email.
 
-![Kalpaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpajpise&show_icons=true&theme=transparent)
+[![Kalpaj’s github stats](https://github-readme-stats.vercel.app/api?username=kalpajpise)](https://github.com/kalpajpise)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpajpise&layout=compact)](https://github.com/kalpajpise)
